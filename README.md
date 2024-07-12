@@ -24,7 +24,7 @@ MemeWiz is a dynamic website built using React.js that allows users to create cu
  ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/ArshitaKango/MemeWiz.git
    
 2. Navigate to the project directory:
    cd MemeWiz
