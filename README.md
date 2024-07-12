@@ -2,6 +2,9 @@
 
 MemeWiz is a dynamic website built using React.js that allows users to create custom memes. Users can select from a variety of popular meme templates and add their own top and bottom text to personalize the memes.
 
+<img src='dynamic.png' alt="memeWiz look" width='100%' />
+
+
 ## Features
 
 - **Dynamic Meme Templates**: Access a collection of popular meme templates via an API.
