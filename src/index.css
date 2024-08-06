@@ -5,6 +5,7 @@
 body{
   font-family:"Karla", sans-serif;
   margin:0;
+  background:#F4D9D0;
 }
 
 
@@ -22,7 +23,7 @@ main{
   display:flex;
   align-items:center;
   height:55px;
-  background: linear-gradient(90deg, #004d4d 1.18%, #008080 100%);
+  background: linear-gradient(90deg, #921A40 1.18%, #C75B7A 100%);
   color:white;
   padding:20px;
 
@@ -67,7 +68,7 @@ main{
   grid-column: 1 / -1;
   font-family:"Karla", sans-serif;
   border-radius:5px;
-  background: linear-gradient(90deg, #004d4d 1.18%, #008080 100%);
+   background: linear-gradient(90deg, #921A40 1.18%, #C75B7A 100%);
   color:white;
   border:none;
   cursor:pointer;
